@@ -1,4 +1,4 @@
-# MaskTrack + UNET
+# MaskTrack + UNET (Resnet Backbone)
 Assignment for Bijon Guha by STRYKER
 
 Davis 2017 Dataset Compatible dataloader
